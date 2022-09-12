@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9356563695",
+    "project_id": "guestvillaproject-df25a",
+    "storage_bucket": "guestvillaproject-df25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9356563695:android:0ec1065f9964a147b0b71a",
+        "android_client_info": {
+          "package_name": "com.example.guestvillaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9356563695-gsatsl51vhhgv37k91idif9g5ull271p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqNGd4MYThhnuFX27A7fGWAGs3WiVHlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9356563695-gsatsl51vhhgv37k91idif9g5ull271p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
